@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collintech
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently a Web Developer
 - 💞️ I’m looking to collaborate on Cross Platforms and modern technologies
 - 📫 How to reach me tochukwu_shewdcollins@yahoo.com
 
